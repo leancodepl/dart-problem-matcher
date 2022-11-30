@@ -1,4 +1,4 @@
-name: dart-action-matcher
+name: dart-problem-matcher
 description: Problem matcher for Dart analyze and Flutter analyze issues
 author: LeanCode
 runs:
