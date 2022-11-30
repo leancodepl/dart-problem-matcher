@@ -1,0 +1,9 @@
+name: dart-action-matcher
+description: Problem matcher for Dart analyze and Flutter analyze issues
+author: LeanCode
+runs:
+  using: 'node16'
+  main: 'main.js'
+branding:
+  color: 'gray-dark'
+  icon: 'edit-3'
